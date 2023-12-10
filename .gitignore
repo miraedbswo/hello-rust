@@ -2,3 +2,13 @@
 .DS_Store
 .vscode
 .vscode/*
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
+/hello-rust/target
+/hello-rust/target/*
+/hello-actix/target
+/hello-actix/target/*
